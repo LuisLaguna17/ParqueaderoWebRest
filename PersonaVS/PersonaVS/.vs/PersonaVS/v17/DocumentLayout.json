@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\personavs\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|solutionrelative:personavs\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\personavs\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|solutionrelative:personavs\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\personavs\\listaractivosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|solutionrelative:personavs\\listaractivosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|c:\\users\\lucho\\onedrive\\escritorio\\9 semestre\\aplicaciones empresariales\\persona\\personavs\\personavs\\personavs\\agregarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|solutionrelative:personavs\\agregarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\personavs\\listaractivosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|solutionrelative:personavs\\listaractivosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\personavs\\agregarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|solutionrelative:personavs\\agregarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\personavs\\listarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|solutionrelative:personavs\\listarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\personavs\\listarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|solutionrelative:personavs\\listarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\personavs\\busceliminarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|solutionrelative:personavs\\busceliminarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\personavs\\buscarformactualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|solutionrelative:personavs\\buscarformactualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\personavs\\busceliminarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|solutionrelative:personavs\\busceliminarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\personavs\\buscarformactualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D739737D-6F51-4384-B588-ADEA4DAD281C}|PersonaVS\\PersonaVS.csproj|solutionrelative:personavs\\buscarformactualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgregarForm.cs",
+              "DocumentMoniker": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\AgregarForm.cs",
+              "RelativeDocumentMoniker": "PersonaVS\\AgregarForm.cs",
+              "ToolTip": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\AgregarForm.cs",
+              "RelativeToolTip": "PersonaVS\\AgregarForm.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwDsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:34:17.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListarForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\ListarForm.cs",
+              "RelativeDocumentMoniker": "PersonaVS\\ListarForm.cs",
+              "ToolTip": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\ListarForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PersonaVS\\ListarForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:33:56.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListarActivosForm.cs",
+              "DocumentMoniker": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\ListarActivosForm.cs",
+              "RelativeDocumentMoniker": "PersonaVS\\ListarActivosForm.cs",
+              "ToolTip": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\ListarActivosForm.cs",
+              "RelativeToolTip": "PersonaVS\\ListarActivosForm.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwDcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:33:29.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListarActivosForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\ListarActivosForm.cs",
+              "RelativeDocumentMoniker": "PersonaVS\\ListarActivosForm.cs",
+              "ToolTip": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\ListarActivosForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PersonaVS\\ListarActivosForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:33:27.239Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BuscEliminarForm.cs",
+              "DocumentMoniker": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\BuscEliminarForm.cs",
+              "RelativeDocumentMoniker": "PersonaVS\\BuscEliminarForm.cs",
+              "ToolTip": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\BuscEliminarForm.cs",
+              "RelativeToolTip": "PersonaVS\\BuscEliminarForm.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAIwEkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:08:31.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\Principal.cs",
+              "RelativeDocumentMoniker": "PersonaVS\\Principal.cs",
+              "ToolTip": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PersonaVS\\Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:44:30.342Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\Principal.cs",
+              "RelativeDocumentMoniker": "PersonaVS\\Principal.cs",
+              "ToolTip": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\Principal.cs",
+              "RelativeToolTip": "PersonaVS\\Principal.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAIAwwEQAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:44:32.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListarForm.cs",
+              "DocumentMoniker": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\ListarForm.cs",
+              "RelativeDocumentMoniker": "PersonaVS\\ListarForm.cs",
+              "ToolTip": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\ListarForm.cs",
+              "RelativeToolTip": "PersonaVS\\ListarForm.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAIwDUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:33:58.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgregarForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\AgregarForm.cs",
+              "RelativeDocumentMoniker": "PersonaVS\\AgregarForm.cs",
+              "ToolTip": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\AgregarForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PersonaVS\\AgregarForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:34:16.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BuscEliminarForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\BuscEliminarForm.cs",
+              "RelativeDocumentMoniker": "PersonaVS\\BuscEliminarForm.cs",
+              "ToolTip": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\BuscEliminarForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PersonaVS\\BuscEliminarForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:08:28.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BuscarFormActualizar.cs",
+              "DocumentMoniker": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\BuscarFormActualizar.cs",
+              "RelativeDocumentMoniker": "PersonaVS\\BuscarFormActualizar.cs",
+              "ToolTip": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\BuscarFormActualizar.cs",
+              "RelativeToolTip": "PersonaVS\\BuscarFormActualizar.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAIwFQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:05:44.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BuscarFormActualizar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\BuscarFormActualizar.cs",
+              "RelativeDocumentMoniker": "PersonaVS\\BuscarFormActualizar.cs",
+              "ToolTip": "C:\\Users\\lucho\\OneDrive\\Escritorio\\9 semestre\\Aplicaciones empresariales\\Persona\\PersonaVS\\PersonaVS\\PersonaVS\\BuscarFormActualizar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PersonaVS\\BuscarFormActualizar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:05:42.08Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
